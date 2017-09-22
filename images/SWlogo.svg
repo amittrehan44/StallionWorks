@@ -1,0 +1,51 @@
+<svg width="110" height="40" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="42" width="112" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <defs>
+   <filter id="svg_10">
+    <feGaussianBlur stdDeviation="0"/>
+   </filter>
+  </defs>
+  <g id="svg_17">
+   <g id="svg_14">
+    <title transform="translate(1194.882080078125,0) translate(0,981.3040771484375) ">background</title>
+    <rect x="1193.88208" y="980.304077" width="168" height="62" id="svg_12" fill="none"/>
+    <g id="svg_11" display="none">
+     <rect id="svg_15" width="580" height="400" x="1194.88208" y="981.304077" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g id="svg_16">
+    <title transform="translate(1194.882080078125,0) translate(0,981.3040771484375) ">Layer 1</title>
+    <text fill="#ffffff" stroke-width="0" x="1195.88208" y="923.696066" id="svg_9" font-size="18" font-family="Georgia, Times, 'Times New Roman', serif" text-anchor="start" xml:space="preserve" filter="url(#svg_10)" transform="matrix(1,0,0,1.1020408126772665,0,-17.85714317645345) " stroke="#000" font-weight="bold" font-style="italic">STALLION</text>
+    <text fill="#ffffff" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="1196.38208" y="1023.804077" id="svg_8" font-size="18" font-family="Georgia, Times, 'Times New Roman', serif" text-anchor="start" xml:space="preserve" font-weight="bold" font-style="italic">LUBRICANTS</text>
+   </g>
+  </g>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <defs>
+   <filter id="svg_27">
+    <feGaussianBlur stdDeviation="0"/>
+   </filter>
+  </defs>
+  <g id="svg_34">
+   <g id="svg_31">
+    <title transform="translate(207,0) translate(0,170) ">background</title>
+    <rect x="206" y="169" width="168" height="62" id="svg_29" fill="none"/>
+    <g id="svg_28" display="none">
+     <rect id="svg_32" width="580" height="400" x="207" y="170" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g id="svg_33">
+    <title fill="#000000" transform="translate(207,0) translate(0,170) ">Layer 1</title>
+    <text fill="#ffffff" stroke-width="0" x="1" y="30" id="svg_26" font-size="18" font-family="Georgia, Times, 'Times New Roman', serif" text-anchor="start" xml:space="preserve" filter="url(#svg_27)" transform="matrix(1,0,0,1.1020408126772665,0,-17.85714317645345) " stroke="#000" font-weight="bold" font-style="italic">STALLION</text>
+    <text font-style="italic" font-weight="bold" stroke="#000000" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="18" id="svg_38" y="36" x="0" stroke-width="0" fill="#ffffff">WORKS</text>
+   </g>
+  </g>
+ </g>
+</svg>

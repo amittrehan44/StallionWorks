@@ -1,0 +1,255 @@
+﻿body {
+    font-family: 'Open Sans', sans-serif;
+    
+   
+
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 30px;
+    text-transform: uppercase;
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+p {
+    margin: 0 0 20px;
+    font-size: 16px;
+    line-height: 1.6em;
+}
+header {
+   /* background:url(../images/pw_maze_black_2X.png) left top repeat;
+   padding:280px 0;*/ 
+    /*background-color: #333;
+    color: #ddd;
+    padding: 20px;
+    text-align: center;*/
+}
+
+.navbar {
+    margin-bottom: 0px;
+    padding: 30px 15px;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+/* ===========================
+--- Template sections
+============================ */
+
+#templates {
+    margin-top: 100px;
+}
+
+
+
+@media (max-width: 400px) {
+    .navbar-header {
+        position: relative
+    }
+    .navbar img{
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        width: 50%;
+    }
+}
+
+
+
+
+.cbp-af-header-shrink {
+    padding-top: 5px;
+    padding-bottom:5px;
+    opacity: 0.9;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #bbb;
+}
+
+
+
+
+.fill-screen-repeat {
+    
+    background-repeat: repeat !important;
+    text-align:center;
+    padding:280px 0;
+   
+}
+
+
+
+.fill-screen-repeat h1 {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    letter-spacing: -1px;
+    margin: 0 0 22px 0;
+    color: #fff;
+}
+
+.fill-screen-repeat h2 {
+    display: inline-block;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 14px;
+    color: #bcbcbc;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin: 0 5px 0 0;
+    padding: 0 0 0 15px;
+}
+
+.link {
+  
+    padding: 15px 35px;
+    background: #7cc576;
+    color: #fff !important;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    border-radius: 3px;
+    text-transform: uppercase;
+    line-height: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.link:hover {
+	text-decoration:none;
+	color:#7cc576 !important;
+	background:#fff;
+}
+
+.link:active, .link:focus {
+	background: #7cc576;
+	text-decoration:none;
+	color:#fff !important;
+}
+
+
+.fill-screen {
+    background-size: cover !important;
+    background-position: center !important;
+    
+   
+}
+
+.content-filler {
+    min-height: 350px; 
+}
+
+
+
+/* ===========================
+--- General sections
+============================ */
+
+.home-section {
+    padding-top: 110px;
+    padding-bottom: 110px;
+	display:block;
+    position:relative;
+    z-index:120;
+}
+
+
+.section-heading h2 {
+	font-size: 40px;
+}
+.section-heading i {
+	margin-bottom: 20px;
+}
+
+.fixed-attachment {
+    background-attachment: fixed !important ;
+}
+
+
+@media (max-width: 1024px){
+    .fixed-attachment {
+       /* background-attachment: scroll !important; */
+        display: none;
+    }	
+    
+}
+
+
+@media (max-width: 500px){
+    .fill-screen-repeat h1 {
+        font-size: 30px;
+
+  
+    }
+
+    .contact-info-box {
+    font-size: 15px !important;
+    margin: 0 0 14px 0 !important;
+    }
+
+   .contact-info-box h3 {
+                font-size: 15px !important;
+                width: 80px !important;
+                margin-right: 0px !important;
+    }
+
+   #carousel {
+    margin-top: 50px;
+}
+
+    
+}
+
+/* ===========================
+--- Services
+============================ */
+
+.service-icon {
+	margin-bottom: 20px;
+}
+
+.bg-gray {
+    background: #f8f8f8;
+}	
+
+
+/* ===========================
+--- About
+============================ */
+
+.boxed-grey {
+	background: #f9f9f9;
+	padding: 20px;
+    margin: 10px 0;
+}
+
+.team h4 {
+	margin-bottom: 10px;
+}
+
+.team p.subtitle {
+	margin-bottom: 10px;
+}
+
+.avatar {
+	margin-bottom: 20px;
+
+}
+
+
+
+
+
+
+footer {
+    background-color: #333;
+    color: #ddd;
+    padding: 20px;
+    text-align: center;
+}

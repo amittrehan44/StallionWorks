@@ -1,0 +1,20 @@
+<svg width="166" height="60" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_5_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="62" width="168" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-style="italic" font-weight="bold" stroke="#000" transform="matrix(1,0,0,1.1020408126772665,0,-17.85714317645345) " filter="url(#svg_5_blur)" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="18" id="svg_5" y="33.253475" x="1" stroke-width="0" fill="#ffffff">STALLION</text>
+  <text font-style="italic" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="18" id="svg_6" y="42.5" x="1.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">LUBRICANTS</text>
+ </g>
+</svg>
